@@ -144,8 +144,9 @@ jupyter notebook
 
 Shows the average purchase amount for each product category, separated by customer gender.
 
-![Average Purchase Amount by Category and Gender](images/01_average_purchase_amount_by_category_and_gender.png)
-
+<p align="center">
+  <img src="images/01_average_purchase_amount_by_category_and_gender.png" width="700">
+</p>
 ---
 
 ### 2. Average Purchase Amount by Product Category

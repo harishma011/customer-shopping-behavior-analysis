@@ -153,7 +153,9 @@ Shows the average purchase amount for each product category, separated by custom
 
 Compares the average purchase amount across different product categories.
 
-![Average Purchase Amount by Product Category](images/02_average_purchase_amount_by_category.png)
+<p align="center">
+  <img src="images/02_average_purchase_amount_by_category.png" width="700">
+</p>
 
 ---
 
@@ -161,23 +163,27 @@ Compares the average purchase amount across different product categories.
 
 Shows how customer spending changes across different seasons.
 
-![Average Purchase Amount by Season](images/03_average_purchase_amount_by_season.png)
-
+<p align="center">
+  <img src="images/03_average_purchase_amount_by_season.png" width="700">
+</p>
 ---
 
 ### 4. Correlation Heatmap
 
 Displays the correlation between Age, Purchase Amount, Review Rating, and Previous Purchases.
 
-![Correlation Heatmap](images/04_correlation_heatmap.png)
-
+<p align="center">
+  <img src="images/04_correlation_heatmap.png" width="700">
+</p>
 ---
 
 ### 5. Customer Gender Distribution
 
 Shows the distribution of customers by gender.
 
-![Customer Gender Distribution](images/05_gender_distribution.png)
+<p align="center">
+  <img src="images/05_gender_distribution.png" width="700">
+</p>
 
 ---
 
@@ -185,7 +191,9 @@ Shows the distribution of customers by gender.
 
 Shows the number of purchases made in each product category.
 
-![Product Category Distribution](images/06_product_category_distribution.png)
+<p align="center">
+  <img src="images/06_product_category_distribution.png" width="700">
+</p>
 
 ---
 
@@ -193,13 +201,21 @@ Shows the number of purchases made in each product category.
 
 Compares the purchase amount distribution between male and female customers.
 
-![Purchase Amount by Gender](images/07_purchase_amount_by_gender.png)
+<p align="center">
+  <img src="images/07_purchase_amount_by_gender.png" width="700">
+</p>
 
 ---
 
 ### 8. Purchase Amount Distribution
 
 Shows the overall distribution of customer purchase amounts.
+<p align="center">
+  <img src="images/08_purchase_amount_distribution.png" width="700">
+</p>
+
+---
+
 ## 👩‍💻 Author
 
 **Harishma G**
